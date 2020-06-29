@@ -2,7 +2,7 @@
 iOS News App
 
 Used Swift UI to build a News App. <br/>
-The news data is provided from Hacker News. <br/>
+The news data is provided from Hacker News and Algolia. <br/>
 
 # Features:
 - Users can use the app to see all the titles in a table view
